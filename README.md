@@ -13,7 +13,7 @@ The objective is to build a series of scatter plots to showcase the following re
  
 ![img](City_Latitude_vs_Max_Temperature.png)
 
-![img](City_Latitude vs Humidity.png)
+![img](City_LatitudevsHumidity.png)
 
 ![img](City_Latitude_vs_Cloudiness.png)
 
