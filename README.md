@@ -10,11 +10,14 @@ Whether financial, political, or social -- data's true power lies in its ability
 In this example, I created a Python script to visualize the weather of 500+ cities across the world of varying distance from the equator. To accomplish this, I utilized a [simple Python library](https://pypi.python.org/pypi/citipy), the [OpenWeatherMap API](https://openweathermap.org/api), and a little common sense to create a representative model of weather across world cities.
 
 The objective is to build a series of scatter plots to showcase the following relationships:
+ 
+![img](City_Latitude_vs_Max_Temperature.png)
 
-* Temperature (F) vs. Latitude
-* Humidity (%) vs. Latitude
-* Cloudiness (%) vs. Latitude
-* Wind Speed (mph) vs. Latitude
+![img](City_Latitude vs Humidity.png)
+
+![img](City_Latitude_vs_Cloudiness.png)
+
+![img](City_Latitude_vs_Wind_Speed.png)
 
 The final notebook includes:
 
